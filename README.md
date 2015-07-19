@@ -1,6 +1,5 @@
 # edeposit.amqp.ssh
-
-A Clojure library designed to ... well, that part is up to you.
+eDeposit AMQP SSH Client
 
 ## Usage
 
